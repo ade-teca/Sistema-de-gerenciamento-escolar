@@ -1,2 +1,2 @@
-# Sistema de gerenciamento escolar
+# Sistema de gerenciamento escolar usando spring boot e thymeleaf
 
